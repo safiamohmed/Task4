@@ -71,9 +71,13 @@ public class IeeeP {
                     case 4:
                         
                         break;
+                        default:
+                        Custom_exception e =new Custom_exception("your entered a number outside the range of 1 through 4 when selecting \n" +
+"an item from the menu.");
+                        outputt.println(e.getMessage());
                         
                         
-                }}while(choice<4);
+                }}while(input.hasNext());
             
             
             
