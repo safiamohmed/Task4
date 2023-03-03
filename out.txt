@@ -1,0 +1,29 @@
+
+3.0
+Enter your choice (1-4):
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+Enter your choice (1-4):
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+Enter ℎ𝑒𝑖𝑔ℎ𝑡 of triangle: Enter 𝑏𝑎𝑠𝑒 of c:  Area of rectangle  = 3.0
+Enter your choice (1-4):
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+Enter radius of circle: Area of circle = 12.566370614359172
+Enter your choice (1-4):
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+Enter your choice (1-4):
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
